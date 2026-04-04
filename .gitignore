@@ -1,0 +1,12 @@
+node_modules/
+.env
+cache/
+artifacts/
+typechain-types/
+coverage/
+coverage.json
+frontend/build/
+backend/config/deployment.json
+backend/config/SupplyChain.abi.json
+frontend/src/config/deployment.json
+frontend/src/config/SupplyChain.abi.json
